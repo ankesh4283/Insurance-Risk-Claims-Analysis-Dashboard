@@ -88,4 +88,4 @@ To build an interactive insurance analytics dashboard that:
 Show what the dashboard looks like.
 
 Example:  
-![Dashboard Preview](Screenshot%202026-02-10%20235015.png)
+![Dashboard Preview](https://github.com/ankesh4283/Insurance-Risk-Claims-Analysis-Dashboard/blob/main/Screenshot%202026-02-10%20235015.png)
