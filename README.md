@@ -1,185 +1,114 @@
 # 🛡️ Insurance Risk & Claims Analysis Dashboard  
-### Risk Analytics & Claims Intelligence | Power BI Project  
-
-An advanced business intelligence dashboard built using **Power BI** to analyze insurance risk patterns, claim behavior, customer demographics, and profitability indicators.
-
-This project transforms raw insurance data into actionable insights to support underwriting decisions, risk management strategies, and operational optimization.
+### End-to-End Excel & Power BI Risk Analytics Project  
 
 ---
 
-## 📌 Executive Summary  
+## 📌 Project Overview  
 
-The Insurance Risk & Claims Analysis project evaluates policy distribution, claim frequency, claim severity, and demographic risk factors to uncover patterns impacting total claim payouts.
+This project analyzes insurance policy and claims data to evaluate total risk exposure, claim frequency, demographic impact, and profitability indicators.
 
-The dashboard enables stakeholders to:
-
-- Monitor total claim exposure  
-- Identify high-risk segments  
-- Analyze claim distribution across demographics  
-- Evaluate car usage and coverage zones  
-- Understand long-term risk trends  
+The objective was to transform raw insurance data into an interactive **risk intelligence dashboard** that supports underwriting, pricing strategy, and portfolio risk monitoring.
 
 ---
 
-## 🎯 Business Objectives  
+## ❓ Problem  
 
-- Calculate total policies and total claim amount  
-- Measure average claim frequency and claim size  
-- Identify high-claim vehicle types and car makes  
-- Analyze claim amount by age group  
-- Evaluate impact of marital status and education on claims  
-- Study claim trends across vehicle manufacturing years  
-- Understand geographic risk exposure  
+An insurance company needed visibility into:
+
+- Total claim exposure across policies  
+- High-risk customer segments  
+- Claim distribution by demographics  
+- Vehicle-related risk patterns  
+- Geographic claim concentration  
+- Long-term claim trends  
+
+Raw claims data alone could not provide strategic risk clarity.
 
 ---
 
-## 🛠️ Technical Stack  
+## 🎯 Objective  
 
-### 📊 Power BI Desktop
-- Interactive dashboard design  
-- KPI card development  
-- Advanced DAX measures  
-- Drill-through and slicer interactions  
-- Custom dark-themed UI  
+To clean and structure insurance data using **Excel** and build a dynamic **Power BI dashboard** to generate actionable risk and claims insights.
 
-### 🧠 DAX (Data Analysis Expressions)
+---
+
+## 🛠 Tools & Skills Used  
+
+- **Microsoft Excel** – Data cleaning & preparation  
+- **Power BI Desktop** – Data modeling & dashboard development  
+- **DAX (Data Analysis Expressions)** – Advanced calculations  
+- KPI Development  
+- Risk Segmentation Analysis  
+- Time-Series Trend Analysis  
+- Demographic & Behavioral Analysis  
+- Interactive Dashboard Design  
+
+---
+
+## 🔎 Key KPIs Built  
+
+- Total Policies  
 - Total Claim Amount  
+- Average Claim Frequency  
 - Average Claim Amount  
-- Claim Frequency  
-- Demographic segmentation measures  
-- Dynamic measure selector  
-
-### 📁 Project File
-- `INSURANCE RISK & CLAIMS ANALYSIS.pbix`  
-
----
-
-## 📊 Dashboard Overview  
-
-### 🔹 KPI Summary Panel
-- Total Policies: **37,542**
-- Total Claim Amount: **$187.8M**
-- Average Claim Frequency: **0.5**
-- Average Claim Amount: **$5.0K**
-
-These KPIs provide a quick snapshot of portfolio risk exposure.
+- Claim Amount by Car Use  
+- Claim Amount by Car Make  
+- Claim Amount by Coverage Zone  
+- Claim Amount by Age Group  
+- Claim Amount by Car Year  
+- Claim Amount by Education & Marital Status  
 
 ---
 
-### 🚗 Claim Analysis by Car Use
-- Private vehicles generate significantly higher total claims than commercial vehicles.
-- Indicates personal vehicle insurance contributes more to overall exposure.
+## 📊 Results & Insights  
+
+- 📄 **37,542 Total Policies**
+- 💰 **$187.8M Total Claim Amount**
+- 📉 **0.5 Average Claim Frequency**
+- 💵 **$5.0K Average Claim Amount**
+
+### 🚗 Risk Insights
+
+- Private vehicles generate higher claim exposure than commercial vehicles  
+- Urban & Highly Urban zones contribute nearly 20%+ each of total claims  
+- Drivers aged 26–55 represent the highest claim segment  
+- Newer vehicle models show increased claim severity  
+- Single & Married customers show stronger claim concentration  
+- Policyholders with no additional drivers account for the highest claim total  
 
 ---
 
-### 🚘 Claim Amount by Car Make
-Top claim-generating brands identified:
-- Ford  
-- Chevrolet  
-- Dodge  
-- Toyota  
+## 💡 Business Impact  
 
-This helps insurers:
-- Adjust premium pricing  
-- Evaluate brand-specific risk  
-
----
-
-### 🌍 Claim Distribution by Coverage Zone
-Claims distributed across:
-- Urban  
-- Highly Urban  
-- Rural  
-- Suburban  
-- Highly Rural  
-
-Urban and Highly Urban zones show stronger claim concentration, indicating higher exposure in dense regions.
-
----
-
-### 👥 Claim Analysis by Age Group
-Age groups 26–55 generate the highest total claim amount.
-
-Younger (15–25) and older (66–75) segments show comparatively lower exposure.
-
-This insight supports:
-- Age-based risk pricing  
-- Policy segmentation  
-
----
-
-### 📅 Claim Trend by Car Manufacturing Year
-Clear upward trend in claim amounts for newer vehicle models until recent years.
-
-Indicates:
-- Higher repair costs in modern vehicles  
-- Increased claim severity  
-
----
-
-### 👶 Claim Impact by Number of Kids Driving
-Policyholders with no additional drivers (0 kids driving) show highest claim amount.
-
-Risk decreases progressively as additional listed drivers increase.
-
----
-
-### 🎓 Claim Analysis by Education & Marital Status
-Education levels:
-- High School  
-- Bachelors  
-- Masters  
-- PhD  
-
-Marital status:
-- Single  
-- Married  
-- Divorced  
-- Separated  
-
-Single and Married customers show higher total claims compared to other segments.
-
-This supports:
-- Behavioral risk modeling  
-- Targeted premium adjustments  
-
----
-
-## 📈 Key Risk Insights  
-
-- Total portfolio exposure stands at **$187.8M**  
-- Private car usage accounts for majority of claims  
-- Urban zones contribute nearly 20%+ each in total claim share  
-- Mid-age group drivers (26–55) represent primary risk pool  
-- Modern car models show increasing claim severity  
-- Demographics significantly impact claim distribution  
-
----
-
-## 💼 Business Value Delivered  
-
-This dashboard enables insurers to:
+This dashboard enables insurance stakeholders to:
 
 - Identify high-risk customer segments  
-- Optimize underwriting policies  
-- Adjust pricing strategies  
-- Reduce unexpected claim exposure  
-- Improve profitability forecasting  
+- Improve underwriting strategies  
+- Optimize premium pricing models  
+- Monitor portfolio-level claim exposure  
+- Reduce unexpected financial risk  
 - Enhance data-driven decision making  
 
 ---
 
-## 🚀 Skills Demonstrated  
+## 🚀 What This Project Demonstrates  
 
-- Advanced DAX calculations  
-- Risk segmentation analysis  
-- KPI development  
-- Demographic data modeling  
-- Time-series trend analysis  
-- Interactive dashboard storytelling  
-- Business-focused data interpretation  
+✔ Excel data preparation & validation  
+✔ Advanced Power BI dashboard development  
+✔ Strong DAX calculation skills  
+✔ Risk segmentation & demographic analysis  
+✔ Time-series trend interpretation  
+✔ Ability to convert raw insurance data into strategic insights  
 
 ---
+
+## 📂 Files Included  
+
+- `INSURANCE RISK & CLAIMS ANALYSIS.pbix`  
+- Dataset  
+- Project Documentation  
+Actively seeking Data Analyst opportunities where I can apply Excel, Power BI, and business analytics to drive measurable impact.
+
 
 ## 🖼️ Dashboard Preview  
 
